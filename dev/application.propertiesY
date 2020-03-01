@@ -1,0 +1,4 @@
+name: quote-server
+port: 1965
+log.level: debug
+
